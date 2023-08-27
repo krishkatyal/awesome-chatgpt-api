@@ -191,6 +191,10 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 
     A ChatGPT web app demo built with Astro and TypeScript.
 
+- [ChatNBX](https://chat.nbox.ai/) <img src="https://img.shields.io/badge/-self--hosted-1adc61" />
+
+    A web app with access to models like LLAMA - 2, Nous Hermes, Vicuna, Code LLAMA and GPT 4. 
+
     Related project: [ChatGPT-Vercel](https://github.com/ourongxing/chatgpt-vercel) is another ChatGPT web app based on ddiu8081/chatgpt-demo, specifically made for deploying on Vercel.
 
 
